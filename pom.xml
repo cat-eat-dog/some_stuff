@@ -34,7 +34,7 @@
         <module>askQuestionPortlet</module>
     
         <module>aboutTeamPortlet</module>
-    <module>Events</module>
+    
   </modules>
 
 </project>
